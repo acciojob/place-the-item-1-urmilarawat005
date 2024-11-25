@@ -1,2 +1,24 @@
+.holder {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 
-/* Your CSS Code here. */
+.item {
+  /* You can replace these values with your desired ones */
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  font-size: 50px;
+}
+.item1 {
+  background-color: red;
+}
+
+.item2 {
+  background-color: blue;
+}
+
+.item3 {
+  background-color: green;
+}
